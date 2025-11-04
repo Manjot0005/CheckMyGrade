@@ -1,0 +1,5 @@
+course_id,course_name,credits,description
+DATA200,Data Science,3,Provides insight about DS and Python
+CS146,Data Structures,3,Learn algorithms and data structures
+CS149,Operating Systems,3,Study OS concepts and implementation
+MATH161,Calculus I,4,Introduction to differential calculus

@@ -1,0 +1,7 @@
+email_address,first_name,last_name,courses,grades,marks
+alice@mycsu.edu,Alice,Johnson,DATA200,C,75
+bob@mycsu.edu,Bob,Williams,DATA200,B,88
+jane@mycsu.edu,Jane,Smith,DATA200,A,92
+john@mycsu.edu,John,Doe,DATA200,B,85
+newstudent@mycsu.edu,John,smith,,,
+sam@mycsu.edu,Sam,Carpenter,DATA200,A,96

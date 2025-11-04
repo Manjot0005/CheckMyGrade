@@ -1,0 +1,4 @@
+professor_id,name,email_address,rank,course_ids
+micheal@mycsu.edu,Micheal John,micheal@mycsu.edu,Senior Professor,DATA200
+sarah@mycsu.edu,Sarah Williams,sarah@mycsu.edu,Associate Professor,CS146
+david@mycsu.edu,David Lee,david@mycsu.edu,Assistant Professor,CS149
